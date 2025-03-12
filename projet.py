@@ -6,3 +6,4 @@ if data :
     print('le max est : ', max[data])
 else: 
     print('dossier vide')
+print('c est bon ')
